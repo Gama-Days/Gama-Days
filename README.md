@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gama-Days
 - 💻 I’m interested in Programming and Games
-- 📖 I’m currently learning School Stuff :/
-- 💼 I’m collaborating with "the Bietz Citybuild Team"
+- 📖 I’m currently learning C :/
+- 💼 I’m a student at 42-Wolfsburg
 - 📧 How to reach me: gama.days@gmail.com :)
 
 <!---
